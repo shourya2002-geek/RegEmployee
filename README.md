@@ -1,3 +1,4 @@
 # A Pipelined Employer and Worker Enrollment System
-An accounting program that contains employee and employer information and records of relationships between them.
+An accounting system-powered application that facilitates employer and employee information registration
+and establishing relationships between them through PostgreSQL.
 
